@@ -1,5 +1,5 @@
 # NBPokeChestDecoration
-A **Free** plugin to use Pixelmon's "PokeChest" as private decoration blocks by players to avoid stealing. **Pure Forge 1.12.2**
+A **Free** plugin to use Pixelmon's "PokeChest" as private decoration blocks for players. **Pure Forge 1.12.2**
 
 ## Grab it
 You can get the plugin directly from my discord server in the dedicated channel.
