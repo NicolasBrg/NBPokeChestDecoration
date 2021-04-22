@@ -6,7 +6,7 @@ You can get the plugin directly from my discord server in the dedicated channel.
 https://discord.gg/u4hyCtybbr
 
 ## Permission
-No permissions are required to use the plugin, however you will need the **nbpokechestdecoration.admin** permission to give the PokeChestDecoration.
+No permissions are required to use the plugin, however you will need the **nbpokechestdecoration.admin** permission to give the PokeChestDecoration and have access to public mode.
 
 ## Usage
 You just have to do a right click on the ground with a PokeChestDecoration to make it appear. You can collect it by right clicking on it. 
@@ -16,8 +16,13 @@ You just have to do a right click on the ground with a PokeChestDecoration to ma
 **Administrator**: *As an administrator, the block remains breakable in creative gamemode.*
 
 ## Commands
-Here is the usage of the give command: <br>
-``/GivePokeChestDecoration <Player> [Type] [Amount]``
-- <Player>
-- [Type] is optional, default is PokeBall *(Values: **PokeBall** / **HyperBall** / **BeastBall** / **MasterBall**)*
+
+``/PublicPokeChestDecoration``<br>
+It is a toggle that you will enable / disable. Once activated the PokeChestDecoration you place will be public and can be collected by a player. This player will then be able to use this decoration.
+
+Here is the usage of the give command: <br><br>
+``/GivePokeChestDecoration <Player> [Type] [Amount]``<br>
+- ``<Player>``
+- [Type] is optional, default is PokeBall *(Values: **PokeBall** / **UltraBall** / **BeastBall** / **MasterBall**)*
 - [Amount] is optional, default is 1 (Integer)
+<br>
